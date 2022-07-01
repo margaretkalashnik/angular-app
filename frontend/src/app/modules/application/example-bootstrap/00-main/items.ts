@@ -5,7 +5,7 @@ export const ITEMS: any[] =
     { id: 3, name: 'Badges', link: 'badges', icon: 'fas fa-user-friends' },
     { id: 4, name: 'Blockquotes', link: 'blockquotes', icon: 'fas fa-house-user' },
     { id: 5, name: 'Breadcrumb', link: 'breadcrumb', icon: 'fab fa-app-store' },
-    { id: 6, name: 'Buttons', link: 'buttons', icon: 'fab fa-artstation' },
+    { id: 6, name: 'ITS MY CHANGE', link: 'buttons', icon: 'fab fa-artstation' },
     { id: 7, name: 'Cards', link: 'cards', icon: 'fab fa-asymmetrik' },
     { id: 8, name: 'Checkbox', link: 'checkbox', icon: 'fas fa-atom' },
     { id: 9, name: 'Collapse', link: 'collapse', icon: 'fas fa-balance-scale-right' },

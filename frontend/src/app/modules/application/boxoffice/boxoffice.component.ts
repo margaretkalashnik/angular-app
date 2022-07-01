@@ -52,7 +52,7 @@ export class BoxofficeComponent implements OnInit {
           clip: new FormControl(),
           game: new FormControl(),
         });
-    
+
         this.formFilter.setValue({
           toto: true,
         });  */
@@ -80,6 +80,7 @@ export class BoxofficeComponent implements OnInit {
         items => {
           this.itemsLoaded = true;
           this.items = items;
+          console.log('items', items);
         }
       );
   }

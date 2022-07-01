@@ -37,12 +37,14 @@
 .nga-card-about {
   -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+
 }
 
 .nga-card-about.card-logo {
   margin-top: 5rem;
   text-align: center;
 }
+
 
 .nga-card-about.card-logo img {
   margin-top: -5rem;
